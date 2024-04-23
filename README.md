@@ -1,5 +1,7 @@
 # ITX 2.0 Super Rocket Hackintosh - Erying B760i, Core i5 12400, RX 6650 XT 8Gb, 32GB RAM and 1TB NVME
 
+![mcaOS Overview](https://github.com/luchina-gabriel/EFI-ERYING-ITX-B760i-INTEL-i5-12400-RX-6650-XT-8GB-32GBRAM-PUBLIC/assets/23700365/6279ce29-cdec-4b37-bfe9-31c234b0c9bc)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.4.1)
